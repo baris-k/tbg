@@ -1,2 +1,2 @@
 # tbg
-the beautifull game
+the beautiful game
